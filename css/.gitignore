@@ -1,0 +1,16 @@
+#-log
+#-img
+*.img
+logo.jpg
+img/
+#-packages
+*.mp4 
+#-log
+*.log
+password.txt
+# IDE-vscoe
+.vscode/*
+!vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
