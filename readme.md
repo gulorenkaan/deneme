@@ -4,4 +4,3 @@
 gdagbkagbad
 gadgagagas
 
-[lorem ipsum](http://google.com)
